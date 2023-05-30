@@ -99,8 +99,6 @@ Client
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Linters]**
 - **[Html]**
 - **[CSS]**
@@ -111,7 +109,7 @@ Client
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project. N/A
+ N/A
 
 
 <!-- GETTING STARTED -->
@@ -244,7 +242,6 @@ Work my first project as a Micronaut. Feeling amazed with starting Microverse.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my friends and family to have me back financialy and mentaly.
 
